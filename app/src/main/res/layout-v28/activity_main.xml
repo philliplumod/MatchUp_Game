@@ -31,14 +31,6 @@
                 android:textStyle="bold" />
         </androidx.appcompat.widget.Toolbar>
     </com.google.android.material.appbar.AppBarLayout>
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:textFontWeight="800"
-        android:textSize="30sp"
-        android:text="@string/score" />
 
     <include
         layout="@layout/images"
